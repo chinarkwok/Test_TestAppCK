@@ -1,0 +1,14 @@
+C:\Users\China\source\repos\TestAppCK\TestAppCK\bin\Debug\TestAppCK.exe
+C:\Users\China\source\repos\TestAppCK\TestAppCK\bin\Debug\TestAppCK.pdb
+C:\Users\China\source\repos\TestAppCK\TestAppCK\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\China\source\repos\TestAppCK\TestAppCK\bin\Debug\Apache.NMS.dll
+C:\Users\China\source\repos\TestAppCK\TestAppCK\obj\Debug\TestAppCK.csprojAssemblyReference.cache
+C:\Users\China\source\repos\TestAppCK\TestAppCK\obj\Debug\TestAppCK.Form1.resources
+C:\Users\China\source\repos\TestAppCK\TestAppCK\obj\Debug\TestAppCK.Properties.Resources.resources
+C:\Users\China\source\repos\TestAppCK\TestAppCK\obj\Debug\TestAppCK.csproj.GenerateResource.cache
+C:\Users\China\source\repos\TestAppCK\TestAppCK\obj\Debug\TestAppCK.csproj.CoreCompileInputs.cache
+C:\Users\China\source\repos\TestAppCK\TestAppCK\obj\Debug\TestAppCK.csproj.CopyComplete
+C:\Users\China\source\repos\TestAppCK\TestAppCK\obj\Debug\TestAppCK.exe
+C:\Users\China\source\repos\TestAppCK\TestAppCK\obj\Debug\TestAppCK.pdb
+C:\Users\China\source\repos\TestAppCK\TestAppCK\bin\Debug\TestAppCK.exe.config
+C:\Users\China\source\repos\TestAppCK\TestAppCK\bin\Debug\Oracle.ManagedDataAccess.dll
